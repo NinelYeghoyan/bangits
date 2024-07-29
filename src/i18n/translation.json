@@ -1,0 +1,13 @@
+{
+    "board": "Board",
+    "newTask": "New Task",
+    "pending": "Pending",
+    "completed": "Completed",
+    "overdue": "Overdue",
+    "removed": "Removed",
+    "markAsComplete": "Mark as Complete",
+    "title": "Title",
+    "description": "Description",
+    "date": "Date",
+    "save": "Save"
+}
